@@ -14,6 +14,15 @@
   .ofh{
     overflow: hidden;
   }
+  .my-btn{
+    padding: 2rem 7rem;
+    font-size: 1.8rem;
+    background: linear-gradient(120deg, #3e64ff, #4f89) !important;
+    color: white;
+  }
+  .my-btn:hover{
+    background: linear-gradient(120deg, #3e64ff, rgba(172, 49, 11, 0.6)) !important;
+  }
 }
 @media screen and (min-width:451px) and (max-width:850px) {
     html{
@@ -23,13 +32,22 @@
         box-shadow: 0.3rem 0.3rem 0.6rem #babecc, -0.2rem -0.2rem 0.5rem #0D3D56;
       }  
       .img{
-        background-position: 82% 0% !important;
+        /* background-position: 82% 0% !important; */
       }
       .my-icon{
           margin-top: 2rem !important;
       }
       .ofh{
         overflow: hidden;
+      }
+      .my-btn{
+        padding: 2rem 7rem;
+        font-size: 1.8rem;
+        background: linear-gradient(120deg, #3e64ff, #4f89) !important;
+        color: white;
+      }
+      .my-btn:hover{
+        background: linear-gradient(120deg, #3e64ff, rgba(172, 49, 11, 0.6)) !important;
       }
 }
 @media screen and (max-width:450px) {
@@ -47,5 +65,13 @@
   }
   .ofh{
     overflow: hidden;
+  }.my-btn{
+    padding: 2rem 7rem;
+    font-size: 1.8rem;
+    background: linear-gradient(120deg, #3e64ff, #4f89) !important;
+    color: white;
+  }
+  .my-btn:hover{
+    background: linear-gradient(120deg, #3e64ff, rgba(172, 49, 11, 0.6)) !important;
   }
 }
