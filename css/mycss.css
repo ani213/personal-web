@@ -1,0 +1,42 @@
+@media screen and (min-width:851px) {
+    html{
+        font-size: 62.5%;
+    }
+  .myImg{
+    box-shadow: 0.3rem 0.3rem 0.6rem #babecc, -0.2rem -0.2rem 0.5rem #0D3D56;
+  }  
+  .img{
+    background-position: 82% 0% !important;
+  }
+  .my-icon{
+      margin-top: 2rem !important;
+  }
+}
+@media screen and (min-width:451px) and (max-width:850px) {
+    html{
+        font-size: 55%;
+    }
+    .myImg{
+        box-shadow: 0.3rem 0.3rem 0.6rem #babecc, -0.2rem -0.2rem 0.5rem #0D3D56;
+      }  
+      .img{
+        background-position: 82% 0% !important;
+      }
+      .my-icon{
+          margin-top: 2rem !important;
+      }
+}
+@media screen and (max-width:450px) {
+    html{
+        font-size: 45%;
+    }
+   .email{
+       font-size: 1.6rem;
+   } 
+   .img{
+    background-position: 82% 0% !important;
+  }
+  .my-icon{
+      margin-top: 2rem !important;
+  }
+}
