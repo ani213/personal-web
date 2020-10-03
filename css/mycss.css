@@ -30,6 +30,7 @@
   }
   .my-image{
     display: none !important;
+    visibility: hidden !important;
    }
 }
 @media screen and (min-width:451px) and (max-width:850px) {
