@@ -22,11 +22,24 @@
   .my-btn{
     padding: 2rem 7rem;
     font-size: 1.8rem;
-    background: linear-gradient(120deg, #3e64ff, #4f89) !important;
+    background: linear-gradient(130deg, #3e64ff, #4f89) !important;
     color: white;
+    border-radius: 5rem !important;
   }
   .my-btn:hover{
-    background: linear-gradient(120deg, #3e64ff, rgba(172, 49, 11, 0.6)) !important;
+    background: linear-gradient(120deg, #5e74ca, rgba(172, 49, 11, 0.6)) !important;
+    color: white !important;
+  }
+  .contact-btn{
+    padding: 2rem 7rem;
+    font-size: 1.8rem;
+    background: linear-gradient(130deg, #6f80c2, #4f89) !important;
+    color: white;
+    border-radius: 5rem !important;
+  }
+  .contact-btn:hover{
+    background: linear-gradient(120deg, #5e74ca, rgba(172, 49, 11, 0.6)) !important;
+    color: white !important;
   }
   .my-image{
     display: none !important;
@@ -54,9 +67,23 @@
         font-size: 1.8rem;
         background: linear-gradient(120deg, #3e64ff, #4f89) !important;
         color: white;
+        border-radius: 5rem !important;
       }
       .my-btn:hover{
         background: linear-gradient(120deg, #3e64ff, rgba(172, 49, 11, 0.6)) !important;
+        color: white !important;
+        cursor: pointer;
+      }
+      .contact-btn{
+        padding: 2rem 7rem;
+        font-size: 1.8rem;
+        background: linear-gradient(130deg, #6f80c2, #4f89) !important;
+        color: white;
+        border-radius: 5rem !important;
+      }
+      .contact-btn:hover{
+        background: linear-gradient(120deg, #5e74ca, rgba(172, 49, 11, 0.6)) !important;
+        color: white !important;
       }
       .my-image{
        display: none !important;
@@ -83,9 +110,22 @@
     font-size: 1.8rem;
     background: linear-gradient(120deg, #3e64ff, #4f89) !important;
     color: white;
+    border-radius: 5rem !important;
   }
   .my-btn:hover{
     background: linear-gradient(120deg, #3e64ff, rgba(172, 49, 11, 0.6)) !important;
+    color: white !important;
+  }
+  .contact-btn{
+    padding: 2rem 7rem;
+    font-size: 1.8rem;
+    background: linear-gradient(130deg, #6f80c2, #4f89) !important;
+    color: white;
+    border-radius: 5rem !important;
+  }
+  .contact-btn:hover{
+    background: linear-gradient(120deg, #5e74ca, rgba(172, 49, 11, 0.6)) !important;
+    color: white !important;
   }
   .mob-sec{
     padding: 1.5rem;
