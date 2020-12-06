@@ -45,6 +45,11 @@
     display: none !important;
     visibility: hidden !important;
    }
+   .email{
+    /* font-size: 1.6rem; */
+    /* word-break: break-all; */
+    color: gray !important;
+}
 }
 @media screen and (min-width:451px) and (max-width:850px) {
     html{
@@ -88,6 +93,11 @@
       .my-image{
        display: none !important;
       }
+      .email{
+        /* font-size: 1.6rem; */
+        word-break: break-all;
+        color: gray !important;
+    }
 }
 @media screen and (max-width:450px) {
     html{
@@ -96,6 +106,7 @@
    .email{
        /* font-size: 1.6rem; */
        word-break: break-all;
+       color: gray !important;
    } 
    .img{
     background-position: 82% 0% !important;
