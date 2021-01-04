@@ -50,6 +50,7 @@
     /* word-break: break-all; */
     color: gray !important;
 }
+
 }
 @media screen and (min-width:451px) and (max-width:850px) {
     html{
